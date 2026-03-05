@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/CHENOT Duncan/JV2_CHENOT_Duncan_MarioKart/CHE_Dun_JV2/Content/VehicleTemplate/Input/IMC_Vehicle_Default.uasset",
+				"D:/CHENOT Duncan/JV2_CHENOT_Duncan_MarioKart/CHE_Dun_JV2/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/4/AW/9C8I9TFBGJO0WM04UO7ECN.uasset",
+				"D:/CHENOT Duncan/JV2_CHENOT_Duncan_MarioKart/CHE_Dun_JV2/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/B/X3/ZXVNZQKWDIN057XW1723FF.uasset",
+				"D:/CHENOT Duncan/JV2_CHENOT_Duncan_MarioKart/CHE_Dun_JV2/Content/Blueprint/BP_Trigger.uasset",
+				"D:/CHENOT Duncan/JV2_CHENOT_Duncan_MarioKart/CHE_Dun_JV2/Content/VehicleTemplate/Blueprints/BP_VehicleAdvPlayerController.uasset",
+				"D:/CHENOT Duncan/JV2_CHENOT_Duncan_MarioKart/CHE_Dun_JV2/Content/Blueprint/BP_FinishLine.uasset",
+				"D:/CHENOT Duncan/JV2_CHENOT_Duncan_MarioKart/CHE_Dun_JV2/Content/VehicleTemplate/UI/UI_Vehicle.uasset",
+				"D:/CHENOT Duncan/JV2_CHENOT_Duncan_MarioKart/CHE_Dun_JV2/Content/UI/WBP_UI.uasset",
+				"D:/CHENOT Duncan/JV2_CHENOT_Duncan_MarioKart/CHE_Dun_JV2/Content/Blueprint/BP_FL_GetController.uasset",
+				"D:/CHENOT Duncan/JV2_CHENOT_Duncan_MarioKart/CHE_Dun_JV2/Content/VehicleTemplate/Blueprints/BP_VehicleAdvPawnBase.uasset",
+				"D:/CHENOT Duncan/JV2_CHENOT_Duncan_MarioKart/CHE_Dun_JV2/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/7/BB/Y01Q4609MCZF7IKMZJI9UW.uasset",
+				"D:/CHENOT Duncan/JV2_CHENOT_Duncan_MarioKart/CHE_Dun_JV2/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/2/7T/TTLTHO2JAOEGXOPU5IHN3S.uasset",
+				"D:/CHENOT Duncan/JV2_CHENOT_Duncan_MarioKart/CHE_Dun_JV2/Content/Blueprint/BP_FL_Getters.uasset",
+				"D:/CHENOT Duncan/JV2_CHENOT_Duncan_MarioKart/CHE_Dun_JV2/Content/Blueprint/BP_AC_TurnManager.uasset",
+				"D:/CHENOT Duncan/JV2_CHENOT_Duncan_MarioKart/CHE_Dun_JV2/Content/Blueprint/BP_Collectible.uasset"
+			]
+		}
+	]
+}
