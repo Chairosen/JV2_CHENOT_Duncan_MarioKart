@@ -13,13 +13,30 @@
 				"D:/CHENOT Duncan/JV2_CHENOT_Duncan_MarioKart/CHE_Dun_JV2/Content/Blueprint/BP_FinishLine.uasset",
 				"D:/CHENOT Duncan/JV2_CHENOT_Duncan_MarioKart/CHE_Dun_JV2/Content/VehicleTemplate/UI/UI_Vehicle.uasset",
 				"D:/CHENOT Duncan/JV2_CHENOT_Duncan_MarioKart/CHE_Dun_JV2/Content/UI/WBP_UI.uasset",
-				"D:/CHENOT Duncan/JV2_CHENOT_Duncan_MarioKart/CHE_Dun_JV2/Content/Blueprint/BP_FL_GetController.uasset",
 				"D:/CHENOT Duncan/JV2_CHENOT_Duncan_MarioKart/CHE_Dun_JV2/Content/VehicleTemplate/Blueprints/BP_VehicleAdvPawnBase.uasset",
-				"D:/CHENOT Duncan/JV2_CHENOT_Duncan_MarioKart/CHE_Dun_JV2/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/7/BB/Y01Q4609MCZF7IKMZJI9UW.uasset",
 				"D:/CHENOT Duncan/JV2_CHENOT_Duncan_MarioKart/CHE_Dun_JV2/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/2/7T/TTLTHO2JAOEGXOPU5IHN3S.uasset",
 				"D:/CHENOT Duncan/JV2_CHENOT_Duncan_MarioKart/CHE_Dun_JV2/Content/Blueprint/BP_FL_Getters.uasset",
 				"D:/CHENOT Duncan/JV2_CHENOT_Duncan_MarioKart/CHE_Dun_JV2/Content/Blueprint/BP_AC_TurnManager.uasset",
-				"D:/CHENOT Duncan/JV2_CHENOT_Duncan_MarioKart/CHE_Dun_JV2/Content/Blueprint/BP_Collectible.uasset"
+				"D:/CHENOT Duncan/JV2_CHENOT_Duncan_MarioKart/CHE_Dun_JV2/Content/Blueprint/BP_Collectible.uasset",
+				"D:/CHENOT Duncan/JV2_CHENOT_Duncan_MarioKart/CHE_Dun_JV2/Content/Level/L_MainMenu.umap",
+				"D:/CHENOT Duncan/JV2_CHENOT_Duncan_MarioKart/CHE_Dun_JV2/Content/UI/WBP_MainMenu.uasset",
+				"D:/CHENOT Duncan/JV2_CHENOT_Duncan_MarioKart/CHE_Dun_JV2/Content/UI/WBP_Menu.uasset",
+				"D:/CHENOT Duncan/JV2_CHENOT_Duncan_MarioKart/CHE_Dun_JV2/Content/Blueprint/BP_MainMenu_Camera.uasset",
+				"D:/CHENOT Duncan/JV2_CHENOT_Duncan_MarioKart/CHE_Dun_JV2/Content/Blueprint/BP_S_test.uasset",
+				"D:/CHENOT Duncan/JV2_CHENOT_Duncan_MarioKart/CHE_Dun_JV2/Content/Blueprint/BP_MenuGameMode.uasset",
+				"D:/CHENOT Duncan/JV2_CHENOT_Duncan_MarioKart/CHE_Dun_JV2/Content/Input/Actions/IA_Menu.uasset",
+				"D:/CHENOT Duncan/JV2_CHENOT_Duncan_MarioKart/CHE_Dun_JV2/Content/Input/IMC_Default.uasset",
+				"D:/CHENOT Duncan/JV2_CHENOT_Duncan_MarioKart/CHE_Dun_JV2/Content/VehicleTemplate/Blueprints/BP_VehicleAdvGameMode.uasset",
+				"D:/CHENOT Duncan/JV2_CHENOT_Duncan_MarioKart/CHE_Dun_JV2/Content/Blueprint/Items/BP_ItemData.uasset",
+				"D:/CHENOT Duncan/JV2_CHENOT_Duncan_MarioKart/CHE_Dun_JV2/Content/Blueprint/Items/BP_ID_Spawner.uasset",
+				"D:/CHENOT Duncan/JV2_CHENOT_Duncan_MarioKart/CHE_Dun_JV2/Content/Blueprint/Items/BP_SpawnedItem.uasset",
+				"D:/CHENOT Duncan/JV2_CHENOT_Duncan_MarioKart/CHE_Dun_JV2/Content/VehicleTemplate/Blueprints/SportsCar/BP_VehicleAdvSportsCar.uasset",
+				"D:/CHENOT Duncan/JV2_CHENOT_Duncan_MarioKart/CHE_Dun_JV2/Content/Meshes/Chassis_Main.uasset",
+				"D:/CHENOT Duncan/JV2_CHENOT_Duncan_MarioKart/CHE_Dun_JV2/Content/Meshes/McQueen_Wheel.uasset",
+				"D:/CHENOT Duncan/JV2_CHENOT_Duncan_MarioKart/CHE_Dun_JV2/Content/Materials/M_Car.uasset",
+				"D:/CHENOT Duncan/JV2_CHENOT_Duncan_MarioKart/CHE_Dun_JV2/Content/Textures/Noise.uasset",
+				"D:/CHENOT Duncan/JV2_CHENOT_Duncan_MarioKart/CHE_Dun_JV2/Content/Blueprint/BP_FL_GetController.uasset",
+				"D:/CHENOT Duncan/JV2_CHENOT_Duncan_MarioKart/CHE_Dun_JV2/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/7/BB/Y01Q4609MCZF7IKMZJI9UW.uasset"
 			]
 		}
 	]
