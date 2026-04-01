@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/dunca/OneDrive/Documents/Unreal Projects/JV2_CHENOT_Duncan_MarioKart/CHE_Dun_JV2/Content/VehicleTemplate/Input/IMC_Vehicle_Default.uasset",
+				"C:/Users/dunca/OneDrive/Documents/Unreal Projects/JV2_CHENOT_Duncan_MarioKart/CHE_Dun_JV2/Content/VehicleTemplate/Blueprints/BP_VehicleAdvPlayerController.uasset",
 				"D:/CHENOT Duncan/JV2_CHENOT_Duncan_MarioKart/CHE_Dun_JV2/Content/VehicleTemplate/Input/IMC_Vehicle_Default.uasset",
 				"D:/CHENOT Duncan/JV2_CHENOT_Duncan_MarioKart/CHE_Dun_JV2/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/4/AW/9C8I9TFBGJO0WM04UO7ECN.uasset",
 				"D:/CHENOT Duncan/JV2_CHENOT_Duncan_MarioKart/CHE_Dun_JV2/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/B/X3/ZXVNZQKWDIN057XW1723FF.uasset",
